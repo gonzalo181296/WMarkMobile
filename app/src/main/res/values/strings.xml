@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RegistrateUPC</string>
+    <string name="title_activity_geo_map">Map</string>
+</resources>
